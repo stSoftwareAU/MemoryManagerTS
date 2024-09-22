@@ -1,0 +1,9 @@
+{
+    "name": "@stsoftware/memory-manager",
+    "version": "1.0.0",
+    "exports": "./mod.ts",
+    "lock": false,
+    "imports": {
+    "@std/assert": "jsr:@std/assert@^1.0.2"
+    }
+  }
