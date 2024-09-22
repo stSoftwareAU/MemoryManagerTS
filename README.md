@@ -13,7 +13,7 @@ A TypeScript library designed for efficient memory management, providing tools f
 
 ### Prerequisites
 
-- Deno (v1.15+ recommended)
+[JSR](https://jsr.io/@stsoftware/memory-manager)
 
 ### Installation
 
