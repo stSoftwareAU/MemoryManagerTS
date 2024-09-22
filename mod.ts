@@ -25,8 +25,8 @@
  * memoryManager.registerCacheManager(someCacheManager);
  * @class
  */
-
 export { MemoryManager } from "./src/MemoryManager.ts";
+
 /**
  * `MemoryHandler` is an interface that defines the structure and methods required
  * for classes to handle memory management, such as clearing caches or deregister
